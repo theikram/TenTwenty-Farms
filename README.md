@@ -10,7 +10,20 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-FF6B35?style=for-the-badge&logoColor=white)](https://theikram.github.io/TenTwenty-Farms)
+<a href="https://theikram.github.io/TenTwenty-Farms">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-CLICK_HERE_TO_VIEW-FF6B35?style=for-the-badge&labelColor=1B5E20&color=2E7D32" alt="Live Demo" width="500"/>
+</a>
+
+<br/>
+<br/>
+
+<a href="https://theikram.github.io/TenTwenty-Farms">
+  <img src="https://img.shields.io/badge/▶️_theikram.github.io/TenTwenty--Farms-Visit_Website-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Website URL"/>
+</a>
+
+<br/>
+<br/>
+
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
@@ -41,12 +54,18 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
 <div align="center">
 
 ### 🖥️ Desktop Version
-![Desktop Demo](Live%20Demo/Desktop.mp4)
+
+<video src="https://github.com/theikram/TenTwenty-Farms/raw/main/Live%20Demo/Desktop.mp4" width="100%" autoplay loop muted playsinline>
+  Your browser does not support the video tag.
+</video>
 
 ---
 
 ### 📱 Mobile Version
-![Mobile Demo](Live%20Demo/Mobile.mp4)
+
+<video src="https://github.com/theikram/TenTwenty-Farms/raw/main/Live%20Demo/Mobile.mp4" width="300" autoplay loop muted playsinline>
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
@@ -119,8 +138,8 @@ tentwenty-farms/
 │   ├── 📄 main.tsx                    # React entry point
 │   └── 📄 index.css                   # Global styles & Tailwind imports
 ├── 📂 Live Demo/
-│   ├── 🎬 Desktop.gif                # Desktop walkthrough
-│   └── 🎬 Mobile.gif                 # Mobile walkthrough
+│   ├── 🎬 Desktop.mp4                # Desktop walkthrough
+│   └── 🎬 Mobile.mp4                 # Mobile walkthrough
 ├── 📄 index.html                      # HTML template
 ├── 📄 tailwind.config.js             # Tailwind configuration
 ├── 📄 tsconfig.json                   # TypeScript configuration
