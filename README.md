@@ -41,12 +41,12 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
 <div align="center">
 
 ### 🖥️ Desktop Version
-![Desktop Demo](Live%20Demo/Desktop.gif)
+![Desktop Demo](Live%20Demo/Desktop.mp4)
 
 ---
 
 ### 📱 Mobile Version
-![Mobile Demo](Live%20Demo/Mobile.gif)
+![Mobile Demo](Live%20Demo/Mobile.mp4)
 
 </div>
 
