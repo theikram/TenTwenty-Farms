@@ -60,8 +60,7 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
 ### 🖥️ Desktop Version
 
 <video width="100%" controls>
-  <source src="./live-demo/Desktop.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://raw.githubusercontent.com/theikram/TenTwenty-Farms/main/live-demo/Desktop.mp4" type="video/mp4">
 </video>
 
 <br/><br/>
@@ -69,8 +68,7 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
 ### 📱 Mobile Version
 
 <video width="350" controls>
-  <source src="./live-demo/Mobile.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  <source src="https://raw.githubusercontent.com/theikram/TenTwenty-Farms/main/live-demo/Mobile.mp4" type="video/mp4">
 </video>
 
 </div>
