@@ -39,7 +39,9 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
 
 <div align="center">
 
-<a href="https://ten-twenty-farms-five.vercel.app/" target="_blank">
+<a href="https://ten-twenty-farms-five.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Open_Live_Website_Click_Here-2E7D32?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
   <img src="https://img.shields.io/badge/🌐_Launch_Live_Website-Visit_Now-2E7D32?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1B5E20" alt="Launch Live Website"/>
 </a>
 
