@@ -60,7 +60,7 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
 ### 🖥️ Desktop Version
 
 <video width="100%" controls>
-  <source src="./Live%20Demo/Desktop.mp4" type="video/mp4">
+  <source src="./live-demo/Desktop.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -69,7 +69,7 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
 ### 📱 Mobile Version
 
 <video width="350" controls>
-  <source src="./Live%20Demo/Mobile.mp4" type="video/mp4">
+  <source src="./live-demo/Mobile.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -135,7 +135,7 @@ tentwenty-farms/
 │   ├── App.tsx
 │   ├── main.tsx
 │   └── index.css
-├── Live Demo/
+├── live-demo/
 │   ├── Desktop.mp4
 │   └── Mobile.mp4
 ├── index.html
