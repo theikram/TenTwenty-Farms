@@ -43,7 +43,9 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
   <img src="https://img.shields.io/badge/🚀_Launch_Live_Website-Visit_Now-2E7D32?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1B5E20" />
 </a>
 
-<br/><br/>
+> 💡 **Tip:** Right-click → *Open in new tab* or **Ctrl/Cmd + Click** to keep this page open
+
+<br/>
 
 ✨ **Fully responsive production deployment on Vercel**  
 📱 Optimized for all screen sizes  
@@ -59,17 +61,13 @@ A stunning, pixel-perfect frontend implementation of the **TenTwenty Farms** web
 
 ### 🖥️ Desktop Version
 
-<a href="./live-demo/Desktop.mp4" target="_blank">
-  <img src="https://img.shields.io/badge/🎥_Watch_Desktop_Demo-Play_Video-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+https://github.com/user-attachments/assets/d4c972d1-614e-4a2a-9759-02ed9f03ccc8
 
-<br/><br/>
+<br/>
 
 ### 📱 Mobile Version
 
-<a href="./live-demo/Mobile.mp4" target="_blank">
-  <img src="https://img.shields.io/badge/🎥_Watch_Mobile_Demo-Play_Video-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+https://github.com/user-attachments/assets/f59a8f83-d494-4141-88a1-e6a657d34928
 
 </div>
 
@@ -113,6 +111,5 @@ npm run dev
 
 <div align="center">
 
-⭐ Star this repo if you found it impressive!
 
 </div>
